@@ -15,7 +15,7 @@ body {
     background-color: #141414;
 }
 
-.container {
+.input-container {
     height: 100%;
     display: flex;
     flex-direction: column;
